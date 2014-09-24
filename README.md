@@ -18,3 +18,8 @@ In house regex talk
   - [Test and explanation](http://regex101.com/) - http://regex101.com/
     - formatting tool
     - code generator
+
+### Language specific references
+- [Ruby Regexp](http://www.ruby-doc.org/core-2.1.3/Regexp.html)
+- [Python re](https://docs.python.org/2/library/re.html)
+- [JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
