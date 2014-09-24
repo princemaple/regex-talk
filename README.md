@@ -1,7 +1,7 @@
-regex-talk
+Regex Talk
 ==========
 
-In house regex talk
+In house regex talk, Zendesk Melbourne
 
 ### Useful links
 - Info
