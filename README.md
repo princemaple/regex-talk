@@ -28,3 +28,20 @@ In house regex talk, Zendesk Melbourne
 - https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude
 - https://www.hackerrank.com/challenges/ip-address-validation
 - https://www.hackerrank.com/challenges/detect-the-domain-name
+
+#### Code templates
+```ruby
+ARGV.readlines.each do |line|
+  # regex match
+  # prints output
+end
+```
+
+```python
+import re
+import sys
+
+for line in sys.stdin:
+  # regex match
+  # prints output
+```
