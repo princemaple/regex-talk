@@ -23,3 +23,8 @@ In house regex talk, Zendesk Melbourne
 - [Ruby Regexp](http://www.ruby-doc.org/core-2.1.3/Regexp.html)
 - [Python re](https://docs.python.org/2/library/re.html)
 - [JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+### Exercises
+- https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude
+- https://www.hackerrank.com/challenges/ip-address-validation
+- https://www.hackerrank.com/challenges/detect-the-domain-name
